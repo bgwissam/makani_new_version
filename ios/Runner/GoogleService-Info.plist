@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>315777067411-oquhmnbg79oq786j0capnbi0a56et26a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.315777067411-oquhmnbg79oq786j0capnbi0a56et26a</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>315777067411-i57j2j5a4aqs6u4id3ljet3uitcbmm5b.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAk4k4jwKBC_FSVhUMHPPR7QBaOEEgLC6c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>315777067411</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.itdar.makani</string>
+	<key>PROJECT_ID</key>
+	<string>makani-4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>makani-4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:315777067411:ios:8e8a9f3f84531ed0a52066</string>
+	<key>DATABASE_URL</key>
+	<string>https://makani-4.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "315777067411",
+    "firebase_url": "https://makani-4.firebaseio.com",
+    "project_id": "makani-4",
+    "storage_bucket": "makani-4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315777067411:android:007c340f8a77b41ea52066",
+        "android_client_info": {
+          "package_name": "com.itdar.makani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315777067411-rgurtlq1r80p589qrnqtl733smv0ld3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfbgnZewFXkabnxbqi66jYTSz28-JYx6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315777067411-rgurtlq1r80p589qrnqtl733smv0ld3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
